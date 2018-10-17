@@ -1,0 +1,62 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "do_objectID": "32AD3EF6-174A-44C0-808B-18A85BC5CE87",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "8DE11153-40CD-492A-B760-949DBF9CF2B7",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "DF72BA4D-E8B4-4081-B66F-F2885E1C2447",
+    "height": 76,
+    "width": 352,
+    "x": 11,
+    "y": 267
+  },
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "molecule / type box copy",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "0B738E16-3406-4B7F-9C3B-7C94E63B7489",
+      "overrideName": "9BF25443-B83C-4CA3-A3FB-A89007CAF3F7_stringValue",
+      "value": "Enter Username"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "A1E136C3-EAB3-4C19-A095-B0AB6B748F82",
+      "overrideName": "CBB2DEB3-A9BC-47E3-8BE6-E2A67D1D0670_stringValue",
+      "value": "Create Username"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "A3A13807-9B1C-4E14-A83E-C04F7188064C",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "992328DA-4933-426B-B32F-328405068459",
+  "verticalSpacing": 0
+}

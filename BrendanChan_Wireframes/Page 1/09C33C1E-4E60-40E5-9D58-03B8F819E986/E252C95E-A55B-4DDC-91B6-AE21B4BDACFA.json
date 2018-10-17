@@ -1,0 +1,62 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "do_objectID": "E252C95E-A55B-4DDC-91B6-AE21B4BDACFA",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "0B800CCC-F101-495A-8ACB-EED43F6C82DD",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "10FB1E23-692D-4B36-9B0C-3CE17FD7BA22",
+    "height": 76,
+    "width": 352,
+    "x": 11,
+    "y": 451
+  },
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "molecule / type box copy 3",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "57ECE2B1-81A8-48CA-B35D-3A25FA453841",
+      "overrideName": "9BF25443-B83C-4CA3-A3FB-A89007CAF3F7_stringValue",
+      "value": "Enter Password"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "C0FDFE60-645D-47C3-9C1D-34873ADC092D",
+      "overrideName": "CBB2DEB3-A9BC-47E3-8BE6-E2A67D1D0670_stringValue",
+      "value": "Verify Password"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "85071096-46E8-4656-9456-451712751057",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "992328DA-4933-426B-B32F-328405068459",
+  "verticalSpacing": 0
+}
